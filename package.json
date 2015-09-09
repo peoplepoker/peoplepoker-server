@@ -1,0 +1,6 @@
+{
+  "name": "peoplepoker-server",
+  "version": "0.0.1",
+  "description": "The server application to power peoplepoker",
+  "dependencies": {}
+}
